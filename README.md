@@ -9,7 +9,7 @@ I earned my certification in **AI with Python** through both **Harvard** and **e
 - [Harvard Certificate](https://certificates.cs50.io/8fe6f96d-95f8-4e61-9834-2790a3f5d25d.pdf?size=letter)
 - [edX Verified Certificate](https://courses.edx.org/certificates/1b144ba229404f66b825a646ad97230b)
 
-You can view my course progress and grades in the official [CS50 AI Gradebook](https://cs50.me/cs50ai).
+You can view my course progress and grades in the official [CS50 AI Gradebook](https://submit.cs50.io/users/becks256/ai50/projects/2024).
 
 ## Repository
 
